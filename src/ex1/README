@@ -1,0 +1,22 @@
+tzvog
+
+================
+File description
+================
+Book.java - this file contains the class of a book and its
+functions of getting and setting values
+Patron.java - this file contains the class of a Patron and its functions with its getting and
+setting values and some basic cacluations
+Libary.java - this file contains the class of a library with function to hold books lend them to patrons
+
+======
+Design
+======
+
+=====================
+Implementation issues
+=====================
+
+====================
+Answers to questions
+====================

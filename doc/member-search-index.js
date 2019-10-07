@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ex1","c":"Library","l":"addBookToLibrary(Book)","url":"addBookToLibrary(ex1.Book)"},{"p":"ex1","c":"Library","l":"Library(int, int, int)","url":"%3Cinit%3E(int,int,int)"}]
